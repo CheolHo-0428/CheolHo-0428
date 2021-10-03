@@ -8,11 +8,11 @@
 
 - <strong>🌱 I’m currently learning</strong><br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Java <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Springframework, SrpingBoot <br> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Springframework, SpringBoot <br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Oracle DB <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Vue.js, etc.. <br>
 
-- 📝 I regularly write blogss on [https://flawless-cheque-485.notion.site/539001e2190f47229758c3ab7c0ae319](https://flawless-cheque-485.notion.site/539001e2190f47229758c3ab7c0ae319)
+- 📝 I regularly write blogs on [https://flawless-cheque-485.notion.site/539001e2190f47229758c3ab7c0ae319](https://flawless-cheque-485.notion.site/539001e2190f47229758c3ab7c0ae319)
 
 - 📫 How to reach me **againnr1@gmail.com**
 
