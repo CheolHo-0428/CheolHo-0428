@@ -55,11 +55,5 @@
    </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheolho-0428&show_icons=true&locale=en" alt="cheolho-0428" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheolho-0428&" alt="cheolho-0428" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ck04_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ck04_28" height="30" width="40" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheolho-0428&show_icons=true&locale=en" alt="cheolho-0428" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheolho-0428&show_icons=true&locale=en&layout=compact" alt="cheolho-0428" />
